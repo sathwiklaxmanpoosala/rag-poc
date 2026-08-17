@@ -1,0 +1,15 @@
+Python is a high-level programming language known for its simple syntax and readability. It is widely used in web development, data analysis, machine learning, automation, and artificial intelligence.
+
+PostgreSQL is an open-source relational database management system. It supports SQL, transactions, indexing, JSON data, and complex queries. PostgreSQL is commonly used for applications that require reliable and structured data storage.
+
+FastAPI is a modern Python web framework used to build APIs. It supports asynchronous programming and automatically generates interactive API documentation. FastAPI is commonly used for backend services and microservices.
+
+Vector databases are designed to store and search numerical representations of data called embeddings. They are commonly used in semantic search, recommendation systems, and Retrieval Augmented Generation applications.
+
+Retrieval Augmented Generation, or RAG, combines information retrieval with a large language model. In a RAG system, documents are divided into smaller chunks, converted into embeddings, stored in a vector database, and retrieved based on the similarity of a user's query.
+
+LangChain is a framework used to build applications powered by large language models. It provides components for document loading, text splitting, embeddings, vector stores, retrieval, and interaction with language models.
+
+Ollama allows developers to run large language models and embedding models locally. It can be used during development when applications need local model inference without sending data to an external API.
+
+Chroma is a vector database that can store embeddings along with their associated documents and metadata. It can be used for similarity search in AI and RAG applications.
